@@ -1,11 +1,11 @@
-# canizhazworkout
+# canihazworkout
 Small workout timer for easy ~10 minute workout with your own body weight
 
 ## Running the program
 
-`git clone https://github.com/dottenbr/canizhazworkout`
+`git clone https://github.com/dottenbr/canihazworkout`
 
-`cd canizhazworkout`
+`cd canihazworkout`
 
 `caffeinate -d python workout.py`
 
