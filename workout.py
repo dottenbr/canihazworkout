@@ -1,9 +1,9 @@
 import time
 import subprocess
 
-beep = "/Users/dominik/Dev/timer/resources/beep.wav"
-tick = "/Users/dominik/Dev/timer/resources/tick.wav"
-success = "/Users/dominik/Dev/timer/resources/success.wav"
+beep = "resources/beep.wav"
+tick = "resources/tick.wav"
+success = "resources/success.wav"
 
 def play(n):
     return_code = subprocess.call(["afplay", n])
